@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "decisive-coda-446415-j1",
+  "private_key_id": "c4edbcf8e92c54cebd9e93cb951e7cfb689ee6d2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxkXEflPVKR1yE\n1bX0os9sLbOlknzPy8Isw31J+HqYlT9+DgxQO4OPiAnql90ym6FMAhsF83XSs8kR\nVW4TLHXi8DQ/42r+ryEUWwadLkBfxlJLF92CoAOBkoRrB5Xv39rUGWLoiXlnQNsD\nVgrQolPedG2LaY66KihkZg3695AQvAe3fjTAXAeT+iQ4r/n9xJdpGphZ3H11ciuP\nGFjW+aJe+AIZVBD6RWkNzoqA/7jYRlYccf1aKGQPa/3qtrsGH/lknFsIbGZBOAmb\n1SE/z8vWDo0ETEm5VlLhHGQdTVPjAHQ2RUu9KoPGQz5mQrpvg4pyzt4p0HPaAX+o\nr0yfojBFAgMBAAECggEAAjsEvAQTwbtcQOnrV3edGeuIDG4m5bhWR9gr0HxP0+9a\nBRQZmP9qY2ju0PTX6T0VvV3wZ3Z7tioefjp/v7to/rEMQvoxG6JpDLepAVv1oI5d\n9cYGuQ+YA65qvepyOnlqJwxrlua1MPQaXDQePikv2wVE5AGvMoz5hWtXxR2LgH5K\nzZPWjovuqODegTOoxUwBxfOT1uCiFgef31K7e8DIqWJQq9sH48mxRNw1zeU4Phrt\npzUVmnQTrYGLmZznSRF+wWzXip1YW771UXDY9xF3I189/o+IGosmItyPrm9HFWdW\nnJ7oHILIN3Ljpe49exQuhIM0E+FhmqCQWU4IKzHsuQKBgQDnjHH284fccPyQ7OhJ\ndKbuekesJ66KiScAKR2PeiSD1dM3l5+K037+LuWXY1QFKYcZCVxF3sOYw0sQJHrz\nBC9FDTd2AIIDPVrauVpWRy5NCa2Dyp2vsp3LprgXtoUT3mhagLLpeTxOyA+ljrCt\nA0KandzORtOJBLv4rTXEosWX6QKBgQDEUbgBqijrXteE0G6vYhTad3XunrbIqL/P\nmlgisPFJtRMMiHvGWAl9bzP++jaoxo9s66yXrKARyEnxYQObPNuxBfglVgChBhkG\nBkQ/h9nLCOYDnI9gZaQumbfbNlzOibXey2lDvSlMApmQCSBEhQCdhZTSrb+VtFXI\nU0fw3fg3/QKBgQCGFaddKTNQrUEkr3voJZwRV1Av2h7R7JBgIG8UyddhXK5eb/gc\njVLp4MBlRUi/YIfyMKB1eYVs7hKGu4lTNuYkp32pYKvpMlttc45jjf6679LCEc/0\nkYudBeNvH+u6UL2/Qu3YE7Ofr2yYI6Qd3Fhybt4RuaP/oXU0kSEkyFmCGQKBgBBf\nqHMrGAKZhGwlXjXufkLCV+mw/xm5SVYtT1CFZXp6Sb5v27LtQM1favzHLavh87Bn\n75su4KLbC5/AMabO6pvXHZ0vkRndAlVITITn9bhDY7vFYQfvMkRYucbkv9TSE4Mj\ngAIQUtNuHBSxTimo1iZNL95qc2IvCkCNAaELQlqZAoGAHkXn0LdEcs11ou1Yy40R\n6CJgMD4qTJn8M7CQcNF/TqfGpTJ2XJoXUPC5/DDCrUAFbTqz7iQqcXP1OjDyXS3K\n1/l3QYvjp9WodG4u9iPc/JYTc7MAc3SjHii9rD9ANlLhLmv02dP2BTlW7z1BjLc0\n9XK7YtCXcd91kBxXOxdWidg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ashutosh-patil@decisive-coda-446415-j1.iam.gserviceaccount.com",
+  "client_id": "106210318247943559856",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ashutosh-patil%40decisive-coda-446415-j1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
